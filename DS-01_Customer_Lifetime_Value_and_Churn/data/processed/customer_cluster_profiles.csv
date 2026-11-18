@@ -1,0 +1,5 @@
+CustomerCluster,CustomerCount,AvgTenure,AvgMonthlyCharges,AvgCLV,AvgChurnProbability,AvgMonthlyGrossProfit
+0,1911,59.08,91.56,784.99,0.09,27.47
+1,1490,22.03,67.1,550.91,0.17,20.13
+2,1795,14.21,76.49,377.64,0.73,22.95
+3,1847,30.73,23.76,206.5,0.07,7.13
